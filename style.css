@@ -13,6 +13,10 @@ body {
     padding-top: 5%;
 }
 
+.landing-page h1 {
+    font-size: 40px;
+}
+
 .button-link {
     text-decoration: none;
     padding: 2%;
@@ -61,6 +65,10 @@ h4 {
     margin-top: 7%;
 }
 
+.donation-plan h1 {
+    font-size: 30px;
+}
+
 .plan {
     display: flex;
     margin-left: 8%;
@@ -102,6 +110,10 @@ h4 {
     margin-right: 10%;
 }
 
+.contribution h1 {
+    font-size: 30px;
+}
+
 .fourth-section img {
     width: 30%;
     margin-left: 5%;
@@ -128,6 +140,10 @@ h4 {
     margin-left: 25%;
     margin-right: 25%;
     text-align: center;
+}
+
+.sixth-section h1 {
+    font-size: 30px;
 }
 
 .email-button {
