@@ -13,10 +13,6 @@ body {
     padding-top: 5%;
 }
 
-.landing-page p {
-    margin-bottom: 8%;
-}
-
 .button-link {
     text-decoration: none;
     padding: 2%;
@@ -26,6 +22,7 @@ body {
 }
 
 .second-section {
+    margin-top: 5%;
     text-align: center;
     padding-left: 25%;
     padding-right: 25%;
@@ -61,7 +58,7 @@ h4 {
     text-align: center;
     padding-left: 25%;
     padding-right: 25%;
-    margin-top: 10%;
+    margin-top: 7%;
 }
 
 .plan {
@@ -91,4 +88,36 @@ h4 {
 
 #right {
     background-color: antiquewhite;
+}
+
+.fourth-section {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.contribution {
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.fourth-section img {
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 15%;
+    border-radius: 5px;
+}
+
+.fifth-section {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.fifth-section img {
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 5%;
+    border-radius: 5px;
 }
